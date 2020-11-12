@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Menlo';
   font-style:  normal;
-  font-weight: 100;
+  font-weight: 300;
   font-display: swap;
-  src: url("font-files/Menlo.ttf") format("truetype");
+  src: url("https://raw.githubusercontent.com/0xdhrv/fonts/main/font-files/Menlo.ttf") format("truetype");
 }
